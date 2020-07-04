@@ -42,7 +42,8 @@ Firefox： [リパライン語ツール – 🦊 Firefox (ja) 向け拡張機能
 を設定することができます。
 
 ## Contribution
-リパライン語ツールの要望やバグ等は、本リポジトリの[Issues](https://github.com/lemoncmd/lerssergyl/issues)にお願いします。
+リパライン語ツールの要望やバグ等は、本リポジトリの[Issues](https://github.com/lemoncmd/lerssergyl/issues)にお願いします。  
+また、合成音声の不具合につきましては、そちらの[Issues](https://github.com/lemoncmd/espeak-ng/issues)にお願いします。
 
 ## License
 合成音声部分：GPL 3.0(改変したespeak-ngを動的に参照しています)  
